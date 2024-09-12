@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.png";
+import project2 from "../assets/projects/Project-2.png";
 
 export const HERO_CONTENT = `Creative and performance-focused Front-End Developer with over three years of experience in crafting 
 high-quality, responsive web applications using JavaScript, React JS, TypeScript, and other modern technologies. Skilled in optimizing 
