@@ -65,7 +65,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: project2,
-    link: '',
+    link: 'https://passionate-coder-meghahubli.netlify.app/',
     description:
       "Developed a personal portfolio website using React, Tailwind CSS and framer motion library, showcasing projects and code samples, optimized for performance with lazy loading and code-splitting.",
     technologies: ["React", "Tailwind CSS", "Farmer Motion Library"],
