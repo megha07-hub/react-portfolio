@@ -74,6 +74,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Nuremberg, Germany",
-  phoneNo: "+49 155 10060801 ",
   email: "meghahubli2695@gmail.com",
 };
