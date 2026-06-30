@@ -49,12 +49,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Dojo Blog",
+    title: "AI Chat Assistant (Groq + LLaMA 3)",
     image: project1,
-    link: 'https://blog-dojo.netlify.app',
+    link: 'https://ai-chat-n3tu56kax-megha07-hubs-projects.vercel.app/',
     description:
-      "I built a complete React application from scratch, mastering core React concepts such as components, state management, hooks, routing, and API integration. I also gained experience in handling asynchronous code within components, creating a functional and dynamic web app.",
-    technologies: ["React", "React Hooks", "Router", "Javascript(ES6+)", "CSS", "API Integration"],
+      "A modern full-stack AI chatbot application built using Next.js and Groq’s LLaMA 3 API. The application provides a ChatGPT-like experience with real-time responses, smooth UI animations, and a clean responsive design.",
+    technologies: ["Next.js", "React.js", "Tailwind CSS", "Framer Motion", "Groq SDK", "Vercel"],
   },
   {
     title: "Portfolio Website",
