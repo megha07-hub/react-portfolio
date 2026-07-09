@@ -52,7 +52,7 @@ export const PROJECTS = [
   {
     title: "AI Chat Assistant (Groq + LLaMA 3)",
     image: project1,
-    link: 'https://ai-chat-n3tu56kax-megha07-hubs-projects.vercel.app/',
+    link: 'https://ai-chat-app-alpha-sand.vercel.app/',
     description:
       "A modern full-stack AI chatbot application built using Next.js and Groq’s LLaMA 3 API. The application provides a ChatGPT-like experience with real-time responses, smooth UI animations, and a clean responsive design.",
     technologies: ["Next.js", "React.js", "Tailwind CSS", "Framer Motion", "Groq SDK", "Vercel"],
