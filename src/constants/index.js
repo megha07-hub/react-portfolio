@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/project-1.png";
+import project1 from "../assets/projects/Project-1.png";
 import project2 from "../assets/projects/Project-2.png";
 import project3 from "../assets/projects/Project-3.png";
 
@@ -52,7 +52,6 @@ export const PROJECTS = [
   {
     title: "AI Chat Assistant (Groq + LLaMA 3)",
     image: project1,
-     video: work-orders,
     link: 'https://ai-chat-n3tu56kax-megha07-hubs-projects.vercel.app/',
     description:
       "A modern full-stack AI chatbot application built using Next.js and Groq’s LLaMA 3 API. The application provides a ChatGPT-like experience with real-time responses, smooth UI animations, and a clean responsive design.",
